@@ -6,11 +6,9 @@
 
 ## To get a local copy run the following steps:
 
-- Copy this link [this link](https://github.com/Tumworobere/
-OOP-School-Library)
+- Copy this link [this link](https://github.com/Tumworobere/OOP-School-Library)
 - Open your terminal or command line
-- Run "git clone Paste [this link](https://github.com/Tumworobere/
-OOP-School-Library)"
+- Run "git clone Paste [this link](https://github.com/Tumworobere/OOP-School-Library)"
 - Open the folder with your code editor
 
 ## To get started-:
@@ -29,8 +27,7 @@ OOP-School-Library)"
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Tumworobere/
-OOP-School-Library/issues).
+Feel free to check the [issues page](https://github.com/Tumworobere/OOP-School-Library/issues).
 
 
 ## Acknowledgements
