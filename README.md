@@ -1,5 +1,6 @@
 # OOP-School-Library
 
+Using Object Orient Programming to build a simple app.This project uses Ruby to create a school library.
 ## Built With
 
 - Ruby
@@ -14,8 +15,10 @@
 ## To get started-:
 
 - Run `bundle install` or `bundle i` to install the dependencies
+- Run `ruby main.rb` to run the School Library App!
 - Run `irb` to run the code by pasting it in the terminal.
 - Run `rubocop` to find and fix linters
+
 
 👤 **ANNAH TUMWOROBERE**
 
